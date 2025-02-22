@@ -14,6 +14,8 @@ This is a responsive weather application built using React and the OpenWeatherMa
 - Tailwind CSS for styling
 - OpenWeatherMap API
 
+## Weather App Live Vercel Link 
+- https://weather-app-react-six-theta.vercel.app/
 ## Installation and Setup
 1. Clone the repository:
     ```bash
@@ -44,5 +46,3 @@ This is a responsive weather application built using React and the OpenWeatherMa
 ## API Reference
 - This app uses the [OpenWeatherMap API](https://openweathermap.org/api) to fetch weather data.
 
-## License
-This project is open-source and available under the MIT License.
